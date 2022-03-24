@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+    background-color: rgb(255, 9, 132);
+    background-image: url(./imagem-fundo.jpg);
+
+}
+h1{
+    display: inline;
+}
+header{ 
+    text-align: center;
+}
+#nomepagina{
+    color: #f3aed9;
+    font-size: 25px;
+    
+}
+
+#menu{
+    
+    padding:0%;
+    background-color:darkgray;
+
+}
+
+#menu li{
+    display:inline;
+    
+}
+#menu li a{
+  color:#050100;
+  display:inline-block;
+  text-decoration:none;
+  padding: 10px;
+}
+
+#menu li a:hover{
+
+    background-color:#60be12;
+}
+
+h3{
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#endereco{
+    padding: 20px;
+    background-color: rgb(43, 43, 49);
+}
+h4 {
+ color:azure;
+}
+
